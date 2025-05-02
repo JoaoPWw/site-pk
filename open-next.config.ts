@@ -7,7 +7,7 @@ const config = {
     override: {
       wrapper: "cloudflare-node",
       converter: "edge",
-      incrementalCache: async () => cache,
+     // incrementalCache: async () => cache,
       tagCache: "dummy",
       queue: "dummy",
     },
