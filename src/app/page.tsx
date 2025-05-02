@@ -1,9 +1,9 @@
 
 'use client'
-import { Facebook, Instagram, Phone, MapPin, Mail, Clock, Send, Home, Info, ShoppingCart, Menu, X, ChevronLeft, ChevronRight, ExternalLink, ArrowDown, MessageCircle, /* Add Whatsapp icon */ Smartphone } from 'lucide-react';
+import { Facebook, Instagram, Phone, MapPin, Mail, Clock, Home, Menu, X, /* Add Whatsapp icon */ Smartphone } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link'; // Import Link for internal navigation
-import React, { useState, useRef, useEffect } from 'react'; // Import React hooks
+import React, { useState, useRef } from 'react'; // Import React hooks
 
 // --- Reusable Components (Optional but good practice) ---
 
