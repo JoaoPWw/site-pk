@@ -1,6 +1,6 @@
 
 'use client'
-import { Facebook, Instagram, Phone, MapPin, Mail, Clock, Home as Homeicon, Menu, X, /* Add Whatsapp icon */ Smartphone } from 'lucide-react';
+import { Facebook, Instagram, Phone, MapPin, Mail, Clock, Menu, X, /* Add Whatsapp icon */ Smartphone } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link'; // Import Link for internal navigation
 import React, { useState, useRef } from 'react'; // Import React hooks
