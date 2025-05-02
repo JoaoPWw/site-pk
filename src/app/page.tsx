@@ -12,6 +12,7 @@ interface SocialLinks {
   facebook: string;
   instagram: string;
   whatsapp?: string; // Optional WhatsApp link
+  whatsappOffers?: string; //
   whatsappMessageLink?: string; // Specific link for receiving offers
   whatsappBannerLink?: string; // Specific link for the banner
 }
