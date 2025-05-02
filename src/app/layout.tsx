@@ -23,7 +23,11 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en" className="dark">
+    <html lang="pt">
+      <head>
+        <title>Peka Supermercados</title>
+        <meta name="description" content="Preço Justo Sempre!" />
+      </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>{children}</body>
     </html>
   )
