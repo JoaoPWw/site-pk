@@ -232,7 +232,7 @@ export default function Home() {
               <Image src="/logo-peka-branco.png" alt="Peka Supermercados Logo" width={150} height={33} />
             </Link>
             <p className="text-sm text-gray-400">
-              Seu supermercado de confiança em Blumenau.
+              Peka Supermercados, preço justo sempre!
             </p>
           </div>
 
